@@ -20,6 +20,8 @@ For Unity2019.2.3f1 & ShaderGraph 6.9.0
 2019.09.24 Sample Scenes are not get ready yet now.
 
 
+
+
 FOR MORE INFORMATIONS, PLEASE GO TO
 
 https://www.youtube.com/watch?v=gzgszOL6hYg
